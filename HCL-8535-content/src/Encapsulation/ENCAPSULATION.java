@@ -1,0 +1,1 @@
+﻿package Encapsulation;public class ENCAPSULATION {}
