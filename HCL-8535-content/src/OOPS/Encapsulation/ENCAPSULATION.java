@@ -1,0 +1,1 @@
+﻿package OOPS.Encapsulation;public class ENCAPSULATION {}
