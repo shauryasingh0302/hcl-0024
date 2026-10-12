@@ -1,0 +1,1 @@
+﻿package Lamda_expression.predefined_interface;import java.util.function.Consumer;class Consumer1 {    public static void main(String[] args) {        Consumer<String> c=(name)-> {            System.out.println("Hello "+name);        };        c.accept("aman");    }}

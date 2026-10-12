@@ -1,0 +1,1 @@
+﻿package Lamda_expression.predefined_interface;import java.util.function.Function;class function {    public static void main(String[] args) {        Function<Integer,Integer> square=(a)->a*a;        System.out.println(square.apply(10));    }}
