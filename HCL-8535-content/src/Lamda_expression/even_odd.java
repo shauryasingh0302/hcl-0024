@@ -1,0 +1,1 @@
+﻿package Lamda_expression;@FunctionalInterfacepublic interface even_odd {    boolean even_odd(int n);}class detail{    public static void main(String[] args) {        even_odd e1=(int n)->{            return n%2==0;        };        System.out.println(e1.even_odd(5));    }}

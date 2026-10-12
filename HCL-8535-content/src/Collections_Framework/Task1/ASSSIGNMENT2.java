@@ -1,1 +1,0 @@
-﻿package Collections_Framework.Task1;public class ASSSIGNMENT2 {    }
