@@ -1,1 +1,1 @@
-﻿package Lamda_expression.predefined_interface;import java.util.function.Supplier;public class Suppliers {    public static void main(String[] args) {        Supplier<String> s=()->"hello ji";        System.out.println(s.get());    }}
+﻿package Lamda_expression.predefined_interface;import java.util.function.Supplier;public class Suppliers {    public static void main(String[] args) {        Supplier<String> s=()->"hello varshney ji";        System.out.println(s.get());    }}
