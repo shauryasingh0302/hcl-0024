@@ -1,0 +1,1 @@
+﻿package OOPS.Interface;public interface Animal {    public static final int max_age=20;   void sleep();   void run();   public static void info(){        System.out.println("doing something");    }    public default void info1(){        System.out.println("doing something zzzzzzzz");    }    }

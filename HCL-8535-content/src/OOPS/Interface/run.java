@@ -1,0 +1,1 @@
+﻿package OOPS.Interface;public class run {    public static void main(String[] args) {        Animal c = new cat();        Animal d = new dog();        c.run();        d.sleep();        System.out.println(dog.max_age);        //c.do();        Animal.info();        c.info1();    }}
