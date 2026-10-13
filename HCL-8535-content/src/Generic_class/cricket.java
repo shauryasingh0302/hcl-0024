@@ -1,0 +1,1 @@
+﻿package Generic_class;public class cricket {    <T>void play(T a){        System.out.println(a);    }    public static void main(String[] args) {        cricket c1=new cricket();        c1.play("Virat");        c1.play(18);        c1.play(200.00);        System.out.println(c1);    }}
