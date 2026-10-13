@@ -1,0 +1,1 @@
+﻿package OOPS.abstraction;public class car extends vehicle{    @Override    public void accelerate() {        System.out.println("bhagaooo");    }    @Override    public void deaccelerate() {        System.out.println("roko reeeee");    }}

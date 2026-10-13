@@ -1,0 +1,1 @@
+﻿package OOPS.abstraction;public class RUN {    public static void main(String[] args) {        vehicle c1=new car();        c1.accelerate();        c1.deaccelerate();    }}
