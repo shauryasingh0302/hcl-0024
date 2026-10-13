@@ -1,0 +1,1 @@
+﻿package HCL_Assessments_2300320100026_AmanYadav.Assessment2;public interface Borrowable {    boolean isAvailable();    void borrow();    void giveback();}

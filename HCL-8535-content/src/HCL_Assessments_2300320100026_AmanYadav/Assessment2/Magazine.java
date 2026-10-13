@@ -1,0 +1,1 @@
+﻿package HCL_Assessments_2300320100026_AmanYadav.Assessment2;public class Magazine extends LibraryItem {    @Override    double latefee(int dayslate) {        return dayslate;    }}
