@@ -1,0 +1,1 @@
+﻿package Sealed_class;sealed class A permits B,C {    void run(){        System.out.println("running");    }}
