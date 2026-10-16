@@ -1,0 +1,1 @@
+﻿package com.sample;import org.springframework.context.annotation.Bean;import org.springframework.context.annotation.Configuration;@Configurationpublic class AppConfig {    @Bean    public Employee employee() {        return new Employee();    }}
