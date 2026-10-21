@@ -1,0 +1,1 @@
+﻿package com.sample.fielddi;import org.springframework.stereotype.Component;@Componentpublic class Address {    public String getAddress() {        return "New Arya Nagar, Ghaziabad";    }}

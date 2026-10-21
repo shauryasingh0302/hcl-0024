@@ -1,0 +1,1 @@
+﻿package com.sample.fielddi;import org.springframework.beans.factory.annotation.Autowired;import org.springframework.stereotype.Component;@Componentpublic class Employee {    @Autowired    private Address address;    public String displayAddress() {        return address.getAddress();    }}
