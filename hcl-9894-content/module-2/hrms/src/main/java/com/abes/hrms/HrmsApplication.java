@@ -1,0 +1,1 @@
+﻿package com.abes.hrms;import org.springframework.boot.SpringApplication;import org.springframework.boot.autoconfigure.SpringBootApplication;@SpringBootApplicationpublic class HrmsApplication {    public static void main(String[] args) {        SpringApplication.run(HrmsApplication.class, args);        System.out.println("Welcome to Springboot Application");    }}
