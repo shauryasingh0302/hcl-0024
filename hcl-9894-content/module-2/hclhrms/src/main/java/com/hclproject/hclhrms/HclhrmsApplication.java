@@ -1,0 +1,1 @@
+﻿package com.hclproject.hclhrms;import org.springframework.boot.SpringApplication;import org.springframework.boot.autoconfigure.SpringBootApplication;@SpringBootApplicationpublic class HclhrmsApplication {    public static void main(String[] args) {        SpringApplication.run(HclhrmsApplication.class, args);        System.out.println("Welcome to HRMS Project");    }}
