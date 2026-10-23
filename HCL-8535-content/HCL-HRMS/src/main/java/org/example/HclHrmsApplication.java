@@ -1,0 +1,1 @@
+﻿package org.example;import org.springframework.boot.SpringApplication;import org.springframework.boot.autoconfigure.SpringBootApplication;@SpringBootApplicationpublic class HclHrmsApplication {    public static void main(String[] args) {        SpringApplication.run(HclHrmsApplication.class, args);        System.out.println("Welcome to HRMS Portal");    }}
