@@ -1,0 +1,1 @@
+﻿package org.example.basic;public class Employee {    public void display(){        System.out.println("Welcome to employee dashboard");    }}

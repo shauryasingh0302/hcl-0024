@@ -1,0 +1,1 @@
+﻿package org.example.ConstructorDi;public class Address {    public void getAddress(){        System.out.println("Crossing republic,Ghaziabad");    }}
