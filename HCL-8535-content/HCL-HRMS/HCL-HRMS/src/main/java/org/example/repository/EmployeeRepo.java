@@ -1,0 +1,1 @@
+﻿package org.example.repository;import org.example.entity.Employee;import java.util.List;public interface EmployeeRepo {    String addEmp(Employee emp);    List<Employee> getEmp();    Employee getEmpbyId(long emp_id);    String deletebyID(long emp_id);    String updatebyId(long emp_id, Employee updatedEmp);}
